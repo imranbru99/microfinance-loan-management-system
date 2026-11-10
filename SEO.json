@@ -1,0 +1,22 @@
+{
+  "author": "Imran Ahmed",
+  "email": "me@imrandev.bd",
+  "website": "https://imrandev.bd",
+  "contact": "https://imrandev.bd/contact",
+  "github_owner": "imranbru99",
+  "repoName": "microfinance-loan-management-system",
+  "description": "Microfinance Loan Management — FinTech / NGO Laravel Filament ERP/SaaS for Bangladesh (Dhaka). Microfinance OS for groups, loans, collections, savings, field officers, and NDM-ready reports. Docker-ready. By Imran Ahmed | imrandev.bd",
+  "topics": [
+    "laravel",
+    "filament",
+    "erp",
+    "saas",
+    "bangladesh",
+    "docker",
+    "php",
+    "business-software",
+    "fintech-ngo",
+    "imrandevbd"
+  ],
+  "homepage": "https://imrandev.bd/applications/microfinance-loan-management-system"
+}
